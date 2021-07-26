@@ -132,3 +132,4 @@ let g:XkbSwitchEnabled = 1 "Дёргаем рубильник
 "  autocmd BufReadPost * call setpos(".", getpos("'\""))
 "augroup END
 "test test test chezmoi
+
