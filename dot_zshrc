@@ -114,6 +114,8 @@ eval $(thefuck --alias)
 export EDITOR='vim'
 
 export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
---color fg:252,bg:233,hl:67,fg+:252,bg+:235,hl+:81
---color info:144,prompt:161,spinner:135,pointer:135,marker:118
+ --color=fg:#cbccc6,bg:#1f2430,hl:#707a8c
+ --color=fg+:#707a8c,bg+:#191e2a,hl+:#ffcc66
+ --color=info:#73d0ff,prompt:#707a8c,pointer:#cbccc6
+ --color=marker:#73d0ff,spinner:#73d0ff,header:#d4bfff'
 '
