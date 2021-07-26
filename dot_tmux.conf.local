@@ -379,7 +379,7 @@ tmux_conf_update_plugins_on_reload=true
 set-option -g @plugin "roy2220/easyjump.tmux"
 set -g @plugin 'sainnhe/tmux-fzf'
 set -g @plugin 'sainnhe/tmux-translator'
-set -g @tmux-translator-to "zh"
+set -g @tmux-translator-to "ru"
 set -g @tmux-translator-engine "google"
 
 # -- custom variables ----------------------------------------------------------
