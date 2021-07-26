@@ -413,3 +413,5 @@ set -g @plugin 'sainnhe/tmux-translator'
 #bind-key -T copy-mode-vi V send-keys -X select-line;
 
 set -g display-panes-time 5000
+
+#lox
