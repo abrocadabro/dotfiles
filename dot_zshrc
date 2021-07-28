@@ -125,3 +125,6 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
 '
 #Для быстрой вставки в терминал (При включённом плагине fast-syntax-highlighting)
 zstyle ':bracketed-paste-magic' active-widgets '.self-*'
+
+export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
+
