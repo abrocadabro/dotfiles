@@ -119,3 +119,5 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
   --color=info:#cf73e6,prompt:#FF0000,pointer:#cf73e6                                                     
   --color=marker:#f0d50c,spinner:#cf73e6,header:#91aadf'                                                  
                                                            
+#Для быстрой вставки в терминал (При включённом плагине fast-syntax-highlighting)
+zstyle ':bracketed-paste-magic' active-widgets '.self-*'
