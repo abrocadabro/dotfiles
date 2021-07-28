@@ -120,8 +120,8 @@ export EDITOR='vim'
 #  --color=marker:#f0d50c,spinner:#cf73e6,header:#91aadf'                                                  
                                                            
 export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
---color="fg:#f0f0f0,bg:#252c31,bg+:#005f5f,hl:#87d75f,gutter:#252c31"
---color="query:#ffffff,prompt:#f0f0f0,pointer:#dfaf00,marker:#00d7d7"
+--color fg:242,bg:233,hl:65,fg+:15,bg+:234,hl+:108
+--color info:108,prompt:109,spinner:108,pointer:168,marker:168
 '
 #Для быстрой вставки в терминал (При включённом плагине fast-syntax-highlighting)
 zstyle ':bracketed-paste-magic' active-widgets '.self-*'
