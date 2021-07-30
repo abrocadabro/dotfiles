@@ -129,4 +129,4 @@ zstyle ':bracketed-paste-magic' active-widgets '.self-*'
 
 #export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
 
-alias ls="ls -lAFhv --group-directories-first"
+alias la="ls -lAFhv --group-directories-first"
