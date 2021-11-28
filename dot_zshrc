@@ -131,7 +131,3 @@ zstyle ':bracketed-paste-magic' active-widgets '.self-*'
 
 alias la="ls -lAFhv --group-directories-first"
 
-###
-###
-#####
-###
