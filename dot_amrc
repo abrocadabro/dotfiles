@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 
-## ===> THEME
-#  export AM_THEME=default
+# ===> THEME
+  export AM_THEME=default
 
 ## ===> CONFIGS
 #  export AM_ASYNC_L_PROMPT=1
