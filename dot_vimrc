@@ -24,8 +24,8 @@ Plug 'dracula/vim', { 'as': 'dracula' }
 """
 call plug#end()
 
-"colorscheme gotham256
-"set background=dark
+colorscheme gotham256
+set background=dark
 syntax on
 "let g:airline_theme='minimalist'
 
