@@ -71,7 +71,7 @@ ZSH_THEME="alien-minimal/alien-minimal"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(fzf-tab zsh-autosuggestions sudo tmux git fast-syntax-highlighting fuzzy-sys zoxide common-aliases)
+plugins=(fzf-tab zsh-autosuggestions sudo tmux git fast-syntax-highlighting fuzzy-sys common-aliases)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -109,7 +109,7 @@ source $ZSH/oh-my-zsh.sh
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
-eval $(thefuck --alias)
+#eval $(thefuck --alias)
 
 export EDITOR='vim'
 
