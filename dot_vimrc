@@ -16,9 +16,9 @@ Plug 'junegunn/fzf.vim'
 "Plug 'vim-airline/vim-airline-themes'
 call plug#end()
 
-colorscheme gruvbox
+"colorscheme gruvbox
 "let g:alduin_Shout_Dragon_Aspect = 1
-set background=dark
+"set background=dark
 
 syntax on
 
